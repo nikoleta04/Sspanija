@@ -1,0 +1,191 @@
+body{
+  background-image:url("pozadinaa.jpg");
+  padding:20px;
+  margin:10px;
+}
+
+.header{
+  text-align:center;
+  background-color:white;
+  padding:10px;
+  border-style:solid;
+}
+
+.header h1 {
+  font-family: "Times New Roman", Times, serif;
+}
+
+.topnav {
+  background-color:white;
+  padding:20px;
+  border-style:solid;
+}
+. topnav a {
+  color:black;
+}
+
+.topnav a:hover {
+ color:white;
+ background-color:black;
+}
+
+.leftcolumn {
+  width:65%;
+  padding:20px;
+  margin-top:10px;
+  background-color:white;
+  float:left;
+}
+
+.card1 {
+ border-style:dotted;
+ background-color:orange;
+ margin-top:20px;
+ margin-left:100px;
+}
+
+.card1 h2 {
+ text-align:center;
+}
+
+.card1 a {
+ color:black;
+ font-size:20px;
+}
+
+.card1 a:hover {
+ color:white;
+}
+
+.rightcolumn {
+  background-color:white;
+  width:25%;
+  float:right;
+  margin-top:20px;
+}
+
+.card {
+  padding:20px;
+  border-style:solid;
+}
+
+body {
+ background-color:PaleTurquoise
+}
+.geografija {
+  padding:20px;
+  background-color:white;
+}
+
+.geografija p {
+  font-family: "Times New Roman", Times, serif;
+  background-color:white;
+}
+
+.geografija h3 {
+  font-family: "Times New Roman", Times, serif;
+  border-bottom:solid;
+  background-color:white;
+}
+
+.istorija {
+  padding:20px;
+background-color:white;
+}
+
+.istorija h2 {
+  font-family: "Times New Roman", Times, serif;
+  text-align:center;
+  background-color:white;
+  border-bottom:solid;
+}
+
+.istorija p {
+  font-family: "Times New Roman", Times, serif;
+  background-color:white;
+}
+
+.istorija h3 {
+  font-family: "Times New Roman", Times, serif;
+  border-bottom:solid;
+  background-color:white;
+}
+
+body {
+ background-color:PaleTurquoise
+}
+.stanovnistvo {
+  padding:20px;
+background-color:white;
+}
+
+.stanovnistvo p {
+  font-family: "Times New Roman", Times, serif;
+  background-color:white;
+}
+
+.stanovnistvo h3 {
+  font-family: "Times New Roman", Times, serif;
+  border-bottom:solid;
+  background-color:white;
+}
+
+.privreda {
+  padding:20px;
+  background-color:white;
+}
+
+.privreda p {
+  font-family: "Times New Roman", Times, serif;
+  background-color:white;
+}
+
+.privreda h3 {
+  font-family: "Times New Roman", Times, serif;
+  border-bottom:solid;
+  background-color:white;
+}
+
+.turizam {
+  font-family: "Times New Roman", Times, serif;
+  background-color:white;
+  padding:20px;
+}
+.turizam h3{
+  font-family: "Times New Roman", Times, serif;
+  border-bottom:solid;
+  background-color:white;
+}
+
+.turizam p {
+  font-family: "Times New Roman", Times, serif;
+  background-color:white;
+}
+
+.turizam ul {
+ background-color:white;
+}
+
+.letovalista {
+  font-family: "Times New Roman", Times, serif;
+  background-color:white;
+padding:20px;
+}
+
+.letovalista p {
+  font-family: "Times New Roman", Times, serif;
+}
+.letovalista h3{
+  font-family: "Times New Roman", Times, serif;
+}
+
+.autor h3{
+  font-family: "Times New Roman", Times, serif;
+  text-align: center;
+} 
+
+.row:after {
+  content: "";
+  display: table;
+  clear: both;
+}
